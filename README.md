@@ -10,3 +10,8 @@
  
 ![alt text](https://github.com/Adiemal/RFProjects/blob/main/Projects/Zeta_2.png?raw=true)
 
+<img
+  src="https://github.com/Adiemal/RFProjects/blob/main/Projects/Raketka_1.1.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; align: center; max-width: 300px">
