@@ -59,7 +59,7 @@
 Корпус для передатчика (плата передатчика + плата фильтра). Выполнен в SolidWorks
 <body>
  <p>
-  <img src="https://github.com/Adiemal/RFProjects/blob/main/Projects/Raketka_korp.JPG" alt="Alt text" title="Верхний слой и второй слой земли" width="500">
-  <img src="https://github.com/Adiemal/RFProjects/blob/main/Projects/Raketka_korp_2.png" alt="Alt text" title="3-й слой питания и нижний слой земли" width="500"> 
+  <img src="https://github.com/Adiemal/RFProjects/blob/main/Projects/Raketka_korp.JPG" alt="Alt text" title="Корпус 1" width="500">
+  <img src="https://github.com/Adiemal/RFProjects/blob/main/Projects/Raketka_korp_2.png" alt="Alt text" title="Корпус 1" width="500"> 
  </p>
 </body>
