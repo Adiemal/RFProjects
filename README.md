@@ -55,6 +55,21 @@
   title="Optional title"
   height="700"> 
   
+## Тестовая плата
+Печатная плата испытания передатчика (генератор опороного сигнла, генератор тактовых импульсов, питание). 
+<body>
+ <p>
+  <img src="https://github.com/Adiemal/RFProjects/blob/main/Projects/Test_1.png" alt="Alt text" title="Верхний слой и второй слой земли" height="350">
+  <img src="https://github.com/Adiemal/RFProjects/blob/main/Projects/Test_2.png" alt="Alt text" title="3-й слой питания и нижний слой земли" height="350"> 
+ </p>
+</body>
+  
+<img
+  src="https://github.com/Adiemal/RFProjects/blob/main/Projects/Test_1.1.png"
+  alt="Alt text"
+  title="Optional title"
+  height="500">   
+  
 ## Корпус передатчика
 Корпус для передатчика (плата передатчика + плата фильтра). Выполнен в SolidWorks
 <body>
