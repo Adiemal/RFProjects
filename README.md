@@ -7,7 +7,12 @@
 Печатная плата для импульсного DC/DC преобразователя по схеме Zeta (2 слоя)
 
 <img
-  src="https://github.com/Adiemal/RFProjects/blob/main/Projects/Zeta_1.png" alt="Alt text" title="Optional title" width="600">
+  src="https://github.com/Adiemal/RFProjects/blob/main/Projects/Zeta_1.0.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="width: 600px">
+
+
 
 <img
   src="https://github.com/Adiemal/RFProjects/blob/main/Projects/Zeta_2.png"
@@ -24,12 +29,21 @@
   alt="Alt text"
   title="Optional title"
   style="width: 600px">
+
+<img
+  src="https://github.com/Adiemal/RFProjects/blob/main/Projects/Raketka_1.1.png"
+  alt="Alt text"
+  title="Optional title"
+  style="width: 600px">
   
   <img
   src="https://github.com/Adiemal/RFProjects/blob/main/Projects/Raketka_1.2.png"
   alt="Alt text"
   title="Optional title"
   style="width: 600px">
+  
+  <img
+  src="https://github.com/Adiemal/RFProjects/blob/main/Projects/Raketka_1.0.jpg" alt="Alt text" title="Optional title" width="600">
 
 ## Синтезатор частоты V.2
 Печатная плата для одновременного тестирования двух синтезаторов частот с программированием через микроконтроллер (4 слоя)
