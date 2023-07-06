@@ -1,6 +1,8 @@
 
 # Проекты печатных плат
-Все платы выполнены в Altium Designer.
+Все платы выполнены в Altium Designer.<br>
+<a href="https://github.com/Adiemal/RFProjects/blob/main/Projects/LensPrisposob%20(06.07.2023%2017-06-16).zip">Проект передатчика (импульсный передатчик)</a><br>
+<a href="https://github.com/Adiemal/RFProjects/blob/main/Projects/Raketka_V3%20(06.07.2023%2017-56-01).zip">Проект платы для тестирования приёмника (контроллер, АЦП, диф. уислители сигнала на АЦП на ОА, RXTX)</a>
 
 
 ## DC/DC преобразователь
